@@ -1,0 +1,28 @@
+/* .board {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+} */
+
+/* .row {
+  border: 1px solid #ccc;
+}
+
+.cell {
+  cursor: pointer;
+  width: 150px;
+  height: 150px;
+  border: 1px solid rgb(204, 204, 204);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.button {
+  background-color: rgb(37, 37, 202);
+  display: inline-block;
+  color: #fff;
+  padding: 1rem 1.5rem;
+  border: none;
+} */
